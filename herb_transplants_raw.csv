@@ -1,0 +1,181 @@
+﻿Pot #,Species ID,CO2 level,Water,Aboveground Biomass (g),Belowground Biomass (g),Reproductive Biomass (g),# flowers,# fruits,# transplanted w/leaf,# transplanted w/radicle,Comment
+19,MIGU,Ambient,Fluct,0.1255,0.0683,0.0789,10,,8,0,
+42,MIGU,Ambient,Fluct,0.0349,0.0177,0.0568,3,6,10,0,
+53,MIGU,Ambient,Fluct,0.0556,0.0432,0.0312,7,,1,0,
+105,MIGU,Ambient,Fluct,0.1489,0.1361,0.097,12,,10,0,
+140,MIGU,Ambient,Fluct,0.1629,0.1291,0.1041,2,12,8,0,
+177,MIGU,Ambient,Fluct,0.1137,0.0328,0.0693,15,,1,0,
+31,MIGU,Ambient,High,0.1599,0.1961,,,,10,0,
+65,MIGU,Ambient,High,0.0275,0.0612,,,,10,0,
+68,MIGU,Ambient,High,0.1192,0.1982,0.0042,,1,2,0,Germinated after removal from GC
+91,MIGU,Ambient,High,0.0317,0.0675,0.0221,,4,10,0,
+131,MIGU,Ambient,High,0.1095,0.0817,0.0572,2,6,10,0,
+168,MIGU,Ambient,High,0.0864,0.0424,0.0582,7,,10,0,
+24,MIGU,Ambient,Low,,,,,,1,0,dead - no plant
+36,MIGU,Ambient,Low,,,,,,0,0,dead - no plant
+41,MIGU,Ambient,Low,,,,,,0,0,dead - no plant
+97,MIGU,Ambient,Low,,,,,,1,0,dead - no plant
+130,MIGU,Ambient,Low,,,,,,0,0,dead - no plant
+178,MIGU,Ambient,Low,0.1368,0.0961,0.0498,5,,0,0,
+2,MIGU,High,Fluct,0.0419,0.0646,0.0381,6,,10,0,
+34,MIGU,High,Fluct,0.1169,0.2192,,,,10,0,
+38,MIGU,High,Fluct,0.1167,0.0996,,,,4,0,
+96,MIGU,High,Fluct,0.0833,0.0404,0.0604,8,,10,0,
+108,MIGU,High,Fluct,0.0346,0.0103,0.0311,4,,10,0,
+145,MIGU,High,Fluct,0.122,0.0932,0.0488,5,,10,0,
+9,MIGU,High,High,0.0772,0.1365,0.0201,3,,9,0,
+48,MIGU,High,High,0.0975,0.1195,0.018,3,,10,0,
+59,MIGU,High,High,0.1077,0.1283,0.0466,5,,2,0,
+92,MIGU,High,High,0.1004,0.2558,,,,3,0,
+110,MIGU,High,High,0.0837,0.1566,0.0389,6,,10,0,
+133,MIGU,High,High,0.1861,0.6472,0.0055,1,,7,0,
+32,MIGU,High,Low,0.1071,0.2802,0.0583,8,,0,0,
+67,MIGU,High,Low,,,,,,0,0,dead - no plant
+79,MIGU,High,Low,,,,,,0,0,dead - no plant
+113,MIGU,High,Low,,,,,,0,0,dead - no plant
+126,MIGU,High,Low,,,,,,1,0,dead - no plant
+165,MIGU,High,Low,0.1883,0.0583,0.1027,10,,9,0,
+63,NAOF,Ambient,Fluct,0.1237,0.0721,0.0536,10,6,2,5,
+111,NAOF,Ambient,Fluct,0.179,0.1263,0.0733,18,10,6,3,
+124,NAOF,Ambient,Fluct,0.0528,0.0699,0.0722,7,10,3,7,
+144,NAOF,Ambient,Fluct,0.1608,0.0496,0.0487,4,8,5,5,
+154,NAOF,Ambient,Fluct,0.182,0.0857,0.0401,15,2,10,0,
+167,NAOF,Ambient,Fluct,0.1239,0.0543,0.0401,15,2,11,0,
+22,NAOF,Ambient,High,0.258,0.1365,0.1084,13,10,10,0,
+30,NAOF,Ambient,High,0.0876,0.0486,0.0163,7,1,10,0,
+52,NAOF,Ambient,High,0.1745,0.0732,0.0491,11,2,10,0,
+70,NAOF,Ambient,High,0.0716,0.0667,0.0443,6,8,10,0,
+132,NAOF,Ambient,High,0.156,0.0519,0.0462,16,3,10,0,
+162,NAOF,Ambient,High,0.1051,0.1102,,6,7,13,0,"8 seedlings already in soil, not transplanted, repr biomass not found"
+3,NAOF,Ambient,Low,0.462,0.1135,0.1197,19,18,0,0,
+23,NAOF,Ambient,Low,,,,,,0,0,dead - no plant
+46,NAOF,Ambient,Low,,,,,,0,0,Germinated after removal from GC
+87,NAOF,Ambient,Low,0.1366,0.2061,0.1753,20,19,1,2,
+120,NAOF,Ambient,Low,0.6867,0.1897,0.1325,40,21,1,0,
+123,NAOF,Ambient,Low,0.3212,0.0959,0.1477,15,17,1,2,
+1,NAOF,High,Fluct,0.1667,0.1001,0.0564,5,11,3,7,
+7,NAOF,High,Fluct,0.1071,0.1497,0.0401,4,6,10,0,
+37,NAOF,High,Fluct,0.1481,0.2796,0.0353,13,2,3,7,
+62,NAOF,High,Fluct,0.1323,0.1195,0.0638,4,10,7,0,
+117,NAOF,High,Fluct,0.076,0.0886,0.047,5,7,2,6,
+125,NAOF,High,Fluct,0.1503,0.1521,0.1115,16,14,3,6,
+45,NAOF,High,High,0.2227,0.0944,0.0435,15,7,5,5,
+84,NAOF,High,High,0.0989,0.0394,0.0202,7,5,4,6,
+99,NAOF,High,High,0.1,0.0378,0.0252,9,,7,3,
+135,NAOF,High,High,0.1576,0.0786,0.0483,11,9,9,2,
+142,NAOF,High,High,0.0531,0.2263,0.0177,3,4,10,0,
+156,NAOF,High,High,0.1351,0.0318,0.0293,10,,10,0,
+12,NAOF,High,Low,0.0562,0.0612,0.0136,6,3,1,0,
+33,NAOF,High,Low,0.262,0.1026,0.1044,25,7,0,0,
+77,NAOF,High,Low,0.134,0.1412,0.0583,16,8,10,2,
+81,NAOF,High,Low,0.1354,0.0741,0.0623,7,8,0,0,
+129,NAOF,High,Low,0.1486,0.1655,0.123,9,9,0,0,
+169,NAOF,High,Low,0.094,0.0619,0.0456,12,4,1,3,
+80,POMO,Ambient,Fluct,0.7179,1.3124,,,,10,0,
+141,POMO,Ambient,Fluct,0.4385,0.7409,,,,10,0,
+148,POMO,Ambient,Fluct,0.4507,1.059,,,,10,0,
+164,POMO,Ambient,Fluct,0.5178,0.9119,,,,10,0,
+172,POMO,Ambient,Fluct,0.6724,1.4142,0.0382,2,,10,0,
+173,POMO,Ambient,Fluct,0.4472,1.1038,,,,10,0,
+5,POMO,Ambient,High,0.4429,0.8217,,,,10,0,
+15,POMO,Ambient,High,0.6878,1.3639,,,,10,0,
+104,POMO,Ambient,High,0.795,3.6178,,,,10,0,
+114,POMO,Ambient,High,0.2582,0.6833,,,,13,0,
+139,POMO,Ambient,High,0.6406,1.0204,,,,10,0,
+160,POMO,Ambient,High,0.4536,1.1518,,,,10,0,
+21,POMO,Ambient,Low,0.6952,1.0598,,,,0,0,
+39,POMO,Ambient,Low,0.5879,1.1966,,,,11,0,
+58,POMO,Ambient,Low,1.6259,2.1475,0.1716,3,,7,0,
+118,POMO,Ambient,Low,0.312,0.6596,,,,0,0,
+121,POMO,Ambient,Low,0.9423,0.693,0.2402,3,,2,0,
+147,POMO,Ambient,Low,1.1565,1.4495,0.0788,2,,0,0,
+14,POMO,High,Fluct,0.4169,1.375,,,,10,0,
+17,POMO,High,Fluct,0.3462,1.0989,,,,10,0,
+49,POMO,High,Fluct,0.2986,0.9181,,,,10,0,
+69,POMO,High,Fluct,0.3101,0.4652,,,,10,0,
+72,POMO,High,Fluct,0.2835,0.7774,,,,11,0,
+128,POMO,High,Fluct,0.2207,1.0981,,,,13,0,
+11,POMO,High,High,0.2969,0.7388,,,,11,0,
+57,POMO,High,High,0.4125,1.1482,,,,10,0,
+98,POMO,High,High,0.4134,1.4691,,,,10,0,
+112,POMO,High,High,0.3722,0.9456,,,,13,0,
+138,POMO,High,High,0.4711,0.9831,,,,10,0,
+159,POMO,High,High,0.3365,0.9441,,,,9,0,
+20,POMO,High,Low,0.7234,0.7443,,,,1,0,
+35,POMO,High,Low,0.6178,0.7734,,,,9,0,
+66,POMO,High,Low,0.4056,0.6828,,,,0,0,Germinated after removal from GC
+71,POMO,High,Low,0.287,0.6315,,,,1,0,
+88,POMO,High,Low,1.8492,1.7957,,,,1,0,Germinated after removal from GC
+137,POMO,High,Low,0.5945,0.8944,,,,8,0,
+25,SIIR,Ambient,Fluct,,,,,,0,0,dead - no plant
+60,SIIR,Ambient,Fluct,,,,,,0,0,dead - no plant
+74,SIIR,Ambient,Fluct,0.0082,0.0124,,,,1,1,
+90,SIIR,Ambient,Fluct,,,,,,0,0,dead - no plant
+153,SIIR,Ambient,Fluct,,,,,,0,0,dead - no plant
+170,SIIR,Ambient,Fluct,,,,,,0,0,dead - no plant
+40,SIIR,Ambient,High,,,,,,0,0,dead - no plant
+56,SIIR,Ambient,High,,,,,,1,0,dead - no plant
+89,SIIR,Ambient,High,,,,,,0,0,dead - no plant
+152,SIIR,Ambient,High,,,,,,0,0,dead - no plant
+171,SIIR,Ambient,High,,,,,,1,0,dead - no plant
+174,SIIR,Ambient,High,0.0053,0.0069,,,,0,0,
+26,SIIR,Ambient,Low,,,,,,0,0,dead - no plant
+64,SIIR,Ambient,Low,,,,,,0,0,dead - no plant
+73,SIIR,Ambient,Low,,,,,,0,0,dead - no plant
+75,SIIR,Ambient,Low,,,,,,0,0,Germinated after removal from GC dead - no plant
+158,SIIR,Ambient,Low,,,,,,0,0,dead - no plant
+163,SIIR,Ambient,Low,,,,,,0,0,Germinated after removal from GC dead - no plant
+8,SIIR,High,Fluct,,,,,,0,0,dead - no plant
+29,SIIR,High,Fluct,,,,,,0,0,dead - no plant
+44,SIIR,High,Fluct,,,,,,0,2,dead - no plant
+83,SIIR,High,Fluct,,,,,,1,0,dead - no plant
+103,SIIR,High,Fluct,,,,,,1,0,wrong species transplanted - MIGU?
+155,SIIR,High,Fluct,,,,,,0,0,dead - no plant
+51,SIIR,High,High,,,,,,0,0,dead - no plant
+78,SIIR,High,High,,,,,,0,0,dead - no plant
+82,SIIR,High,High,,,,,,0,0,dead - no plant
+93,SIIR,High,High,,,,,,3,0,dead - no plant
+149,SIIR,High,High,,,,,,0,0,dead - no plant
+179,SIIR,High,High,,,,,,1,0,wrong species transplanted - MIGU?
+6,SIIR,High,Low,,,,,,0,0,dead - no plant
+27,SIIR,High,Low,,,,,,1,0,dead - no plant
+76,SIIR,High,Low,,,,,,0,0,dead - no plant
+102,SIIR,High,Low,,,,,,0,0,dead - no plant
+107,SIIR,High,Low,,,,,,0,0,dead - no plant
+146,SIIR,High,Low,,,,,,0,0,dead - no plant
+28,VEAN,Ambient,Fluct,0.1341,0.1445,,,,10,0,
+43,VEAN,Ambient,Fluct,0.1449,0.201,,,,10,0,1 larger seedling
+54,VEAN,Ambient,Fluct,0.2715,0.2243,,,,10,0,
+55,VEAN,Ambient,Fluct,0.0773,0.1087,,,,11,0,1 larger seedling
+119,VEAN,Ambient,Fluct,0.2261,0.3168,,,,11,0,
+134,VEAN,Ambient,Fluct,0.2903,0.4589,,,,10,0,
+50,VEAN,Ambient,High,0.0817,0.1499,,,,10,0,
+101,VEAN,Ambient,High,0.2969,1.0532,,,,10,0,
+127,VEAN,Ambient,High,0.3326,0.5982,,,,10,0,
+143,VEAN,Ambient,High,0.1486,0.218,,,,11,0,
+175,VEAN,Ambient,High,0.4062,0.5527,,,,10,0,
+180,VEAN,Ambient,High,0.0979,0.1606,,,,10,0,
+18,VEAN,Ambient,Low,,,,,,0,0,dead - no plant
+47,VEAN,Ambient,Low,0.6448,1.3424,,,,0,0,
+94,VEAN,Ambient,Low,0.309,0.272,,,,0,0,Germinated after removal from GC
+95,VEAN,Ambient,Low,0.3019,0.4299,,,,1,0,
+109,VEAN,Ambient,Low,0.3687,0.5708,,,,4,0,
+166,VEAN,Ambient,Low,,,,,,0,0,
+10,VEAN,High,Fluct,0.2104,0.1523,,,,10,0,
+85,VEAN,High,Fluct,0.2535,0.2936,,,,10,0,
+115,VEAN,High,Fluct,0.1682,0.2388,,,,7,0,
+122,VEAN,High,Fluct,0.4295,0.4657,,,,10,0,
+150,VEAN,High,Fluct,0.2006,0.1871,,,,10,0,
+151,VEAN,High,Fluct,0.2281,0.3202,,,,9,0,
+13,VEAN,High,High,0.2908,0.4317,,,,11,0,
+100,VEAN,High,High,0.2451,0.3215,,,,10,0,
+136,VEAN,High,High,0.154,0.2407,,,,10,0,
+157,VEAN,High,High,0.3722,0.4842,,,,12,0,
+161,VEAN,High,High,0.2619,0.4241,,,,10,0,
+176,VEAN,High,High,0.1108,0.0991,,,,10,0,
+4,VEAN,High,Low,0.0853,0.2099,,,,10,0,
+16,VEAN,High,Low,0.2033,0.3516,,,,0,0,
+61,VEAN,High,Low,0.3625,0.2463,,,,0,0,
+86,VEAN,High,Low,0.2526,0.2667,,,,0,0,Germinated after removal from GC
+106,VEAN,High,Low,0.3923,0.5587,,,,10,0,
+116,VEAN,High,Low,0.1091,0.1217,,,,0,0,
