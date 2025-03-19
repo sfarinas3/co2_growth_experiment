@@ -14,3 +14,9 @@ Woody expt
 Boudell_CO2_WoodyBiomass   we can remove the ALCE for failure to participate, 
 we likely don't need the stem len and root len data since we do not have the full set of data for these factors
 no germination data sheet yet b/c I want to organize it for the glmm
+
+
+
+-look at roots and shoots and diameters separately
+-residuals question
+-Jere will 
