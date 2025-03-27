@@ -44,6 +44,7 @@ null_model = lm('total_biomass ~ 1', data = df)
 
 #Set up model with treatment as factor
 model = lm('total_biomass ~ treatment', data = df)
+#plot(model)
 
 #Print model results
 aic = as.data.frame(compare_performance(null_model, model))
@@ -112,6 +113,9 @@ model_no_randomeff = lm('total_biomass ~ treatment', data = df)
 
 #Set up model with treatment as factor and random effects
 model = lmer('total_biomass ~ treatment + (1|chamber) + (1|chamber:shelf)', data = df, REML=FALSE)
+plot(model)
+ggsave(paste0('./figures/',sp,'_qq_plot.jpg'), width=12, height=10)
+
 
 #Print model results
 aic = as.data.frame(compare_performance(null_model, model_no_randomeff, model))
@@ -119,6 +123,7 @@ print(aic)
 print(tidy(model))
 
 #Capture AIC results
+aic$ICC = NULL
 aic$species = sp
 aic_ls_wt = rbind(aic_ls_wt, aic)
 
